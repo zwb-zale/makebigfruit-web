@@ -90,7 +90,16 @@ p.footer {
   background: #171717 url(./splash.85cfd.png) no-repeat center;
   background-size: 45%;
 }
-
+.progress-text {
+    position: absolute;
+    width: 100%;
+    text-align: center;
+    top: 20%;
+    color: #fff;
+    font-size: 20px;
+    font-family: cursive;
+    font-weight: 700;
+}
 .progress-bar {
     position: absolute;
     left: 27.5%;
